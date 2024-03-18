@@ -1,9 +1,9 @@
-import Homecurp from "../components/molecules/calculator";
+import Homecalculator from "../components/molecules/calculator";
 
 function homepage() {
     return ( 
         <>
-            <Homecurp/>
+            <Homecalculator/>
         </>
      );
 }

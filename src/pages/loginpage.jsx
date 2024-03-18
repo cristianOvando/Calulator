@@ -1,10 +1,10 @@
-import Formsherlock from "../components/molecules/login";
+import Formcalculator from "../components/molecules/login";
 
 function Loginpage() {
     
     return (  
        <>
-          <Formsherlock/> 
+          <Formcalculator/> 
        </>
     );
 }
